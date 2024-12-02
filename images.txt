@@ -18,6 +18,7 @@
 #rabbitmq:3.8-management-alpine
 #taigaio/taiga-protected:latest
 #nginx:1.19-alpine
-celaraze/cela:latest
-mysql:8.3
-celaraze/chemex:latest
+#celaraze/cela:latest
+#mysql:8.3
+#celaraze/chemex:latest
+sonatype/nexus3
