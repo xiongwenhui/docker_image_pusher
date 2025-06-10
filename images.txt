@@ -21,4 +21,5 @@
 #celaraze/cela:latest
 #mysql:8.3
 #celaraze/chemex:latest
-sonatype/nexus3:3.69.0
+#sonatype/nexus3:3.69.0
+openproject/community:latest
