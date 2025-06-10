@@ -22,4 +22,4 @@
 #mysql:8.3
 #celaraze/chemex:latest
 #sonatype/nexus3:3.69.0
-openproject/community:16
+openproject/openproject:15
