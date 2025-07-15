@@ -22,4 +22,6 @@
 #mysql:8.3
 #celaraze/chemex:latest
 #sonatype/nexus3:3.69.0
-openproject/openproject:15
+#openproject/openproject:15
+docker.io/akaunting/akaunting:latest
+mariadb
