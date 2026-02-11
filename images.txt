@@ -26,5 +26,4 @@
 #docker.io/akaunting/akaunting:latest
 #mariadb
 
---platform=linux/arm64 rancher/mirrored-cloud-provider-vsphere-csi-release-driver:v3.6.0
 --platform=linux/arm64 rancher/mirrored-cloud-provider-vsphere-csi-release-syncer:v3.6.0
