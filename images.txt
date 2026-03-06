@@ -26,4 +26,5 @@
 #docker.io/akaunting/akaunting:latest
 #mariadb
 
---platform=linux/arm64 redis:7
+#--platform=linux/arm64 redis:7
+--platform=linux/arm64 java:8
