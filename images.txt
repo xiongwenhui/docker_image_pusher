@@ -27,4 +27,4 @@
 #mariadb
 
 #--platform=linux/arm64 redis:7
---platform=linux/arm64 openjdk:8
+--platform=linux/arm64 eclipse-temurin:8-jdk
