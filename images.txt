@@ -28,6 +28,7 @@
 
 #--platform=linux/arm64 redis:7
 #--platform=linux/arm64 eclipse-temurin:8-jdk
---platform=linux/arm64 killsnow/kkfileview:4.2.0
---platform=linux/arm64 killsnow/kkfileview:4.3.0
---platform=linux/arm64 killsnow/kkfileview:4.4.0
+#--platform=linux/arm64 killsnow/kkfileview:4.2.0
+#--platform=linux/arm64 killsnow/kkfileview:4.3.0
+#--platform=linux/arm64 killsnow/kkfileview:4.4.0
+--platform=linux/arm64 goharbor/prepare:v2.12.2-aarch64
