@@ -33,4 +33,4 @@
 #--platform=linux/arm64 killsnow/kkfileview:4.4.0
 #--platform=linux/arm64 goharbor/prepare:v2.12.2-aarch64
 #--platform=linux/arm64 nginx:1.28.3
-kkfileview:4.4.0
+killsnow/kkfileview:4.4.0
