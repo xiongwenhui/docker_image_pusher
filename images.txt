@@ -35,4 +35,5 @@
 #--platform=linux/arm64 nginx:1.28.3
 #ubuntu:24.04
 #mysql:5.7
-zhulinsen/daily_stock_analysis:latest
+#zhulinsen/daily_stock_analysis:latest
+--platform=linux/arm64 goharbor/prepare:v2.15.5
